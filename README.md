@@ -9,3 +9,6 @@ For candidates, please follow the below points to complete the test:
 - Once complete your solution, please submit the codebase to your GitHub and share the public link with our HR team
 
 Thank you for completing the code test with PointsBet.
+
+****
+- The code block in `StringFormatter.cs` file has been updated. ~Sampurna
